@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341659642726",
+    "project_id": "donemodevi-3457c",
+    "storage_bucket": "donemodevi-3457c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341659642726:android:18caee41468c688e6636a7",
+        "android_client_info": {
+          "package_name": "com.example.donemodevi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcV6siuZXJN7NDMrllx7gs4vYlsHRxhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
